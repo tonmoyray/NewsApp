@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="toolbar_title">NewsApp</string>
+
+    <!--navigation arguments-->
+    <string name="news_details_url">NewsDetailsURL</string>
+    <string name="error">Something went wrong</string>
+
+    <!--menu-->
+    <string name="refresh">Refresh</string>
+
+</resources>

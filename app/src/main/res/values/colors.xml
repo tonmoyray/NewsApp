@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/app_color_Blue_light</color>
+    <color name="colorPrimaryDark">@color/app_color_Blue_Dark</color>
+    <color name="colorAccent">@color/app_color_Blue_light</color>
+    <color name="blackDark">#0D0E12</color>
+    <color name="blackLight">#232426</color>
+    <color name="customVeryDarkBlue"> #162533</color>
+    <color name="green">#139966</color>
+    <color name="greenLight">#2AEBA2</color>
+    <color name="switchBgColor">#62E0FC</color>
+    <color name="app_color_Blue">#154D80</color>
+    <color name="app_color_Blue_Dark">#093251</color>
+    <color name="app_color_Blue_light">#01B0E8</color>
+    <color name="onahau">#BAE7F4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#D50000</color>
+    <color name="orange">#FF6D00</color>
+    <color name="black_pearl">#171E26</color>
+    <color name="grey">#5E5959</color>
+    <color name="greylight">#969494</color>
+    <color name="greyDark">#353333</color>
+    <color name="transparent">#00000000</color>
+    <color name="greylight_transparent">#E68D8989</color>
+    <color name="yellow">#FFD600</color>
+    <color name="bg_bottom_sheet">#50000000</color>
+</resources>

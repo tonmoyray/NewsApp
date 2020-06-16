@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">60dp</dimen>
+    <dimen name="toolbar_text_size">18sp</dimen>
+
+    <dimen name="dialog_title_text_size">14sp</dimen>
+    <dimen name="dialog_subtitle_text_size">12sp</dimen>
+
+    <dimen name="list_item_main_padding">5dp</dimen>
+    <dimen name="list_item_title">5dp</dimen>
+    <dimen name="list_item_title_margin">5dp</dimen>
+    <dimen name="list_item_title_line_spacing">5dp</dimen>
+    <dimen name="list_item_date_margin_start">10dp</dimen>
+
+    <dimen name="list_item_date_time_separator_width">1dp</dimen>
+    <dimen name="list_item_date_time_separator_margin">5dp</dimen>
+
+    <dimen name="loading_width">50dp</dimen>
+
+</resources>
