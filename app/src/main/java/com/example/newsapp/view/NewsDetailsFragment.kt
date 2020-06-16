@@ -1,6 +1,7 @@
 package com.example.newsapp.view
 
 import android.annotation.SuppressLint
+import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.os.Bundle
@@ -14,6 +15,7 @@ import android.widget.FrameLayout
 import android.widget.ProgressBar
 import androidx.fragment.app.Fragment
 import com.example.newsapp.R
+import com.example.newsapp.component
 import com.example.newsapp.utils.CommonMethods
 import com.example.newsapp.utils.Constants
 import org.jetbrains.anko.sdk25.coroutines.onKey
@@ -31,6 +33,10 @@ class NewsDetailsFragment : Fragment() {
     @Inject
     lateinit var commonMethods: CommonMethods
 
+    override fun onAttach(context: Context) {
+        super.onAttach(context)
+        component.inject(this)
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
